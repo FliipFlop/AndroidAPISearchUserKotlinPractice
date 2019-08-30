@@ -1,4 +1,6 @@
 <resources>
+    <string name="base_api_url">https://api.github.com/search/</string>
+
     <string name="app_name">Github User</string>
     <string name="text_view_profile">View Profile</string>
     <string name="text_username">Username</string>
