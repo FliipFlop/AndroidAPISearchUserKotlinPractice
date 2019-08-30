@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">AndroidAPISearchUserKotlinPractice</string>
+    <string name="app_name">Github User</string>
+    <string name="text_view_profile">View Profile</string>
+    <string name="text_username">Username</string>
+    <string name="text_id">ID</string>
 </resources>
